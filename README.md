@@ -5,6 +5,9 @@
 ## Overview
 This repository contains the code and resources for a machine learning project completed as part of the EE86 8603 coursework.The project is presented in a video, outlining the process in five main steps.
 
+##Abstract
+This research project focused on the binary classification of a chess dataset, specifically targeting the King-Rook versus King-Pawn on a7 (KRKP) scenario. Serving as a benchmark for diverse classification approaches, this dataset's enduring relevance in the field underscores its significance. Utilizing the pycaret library, different machine learning models are compared, with the decision tree classifier emerging as the optimal performer, achieving an accuracy rate of nearly 99%. Comprehensive performance evaluations, employing various matrices, highlighted the robustness of these models in discerning intricate patterns within the chess dataset. Subsequently, the selected model was implemented on the Google Cloud Platform (GCP), emphasizing the practicality and scalability of machine learning applications in cloud environments. This integration underscores the broader implications of deploying machine learning models in cloud-based solutions, reflecting the academic standard and the far-reaching potential of machine learning methodologies in analytical and scalable contexts.
+
 ## Steps
 
 1. **Library and Data Introduction:**
