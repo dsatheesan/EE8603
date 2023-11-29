@@ -18,8 +18,7 @@ Sylvester & Chawla(2006) addresses the limitation in majority voting where each 
 All attributes were used for training as the data represents a sequence of moves in chess. Data was tested for duplicates or null values. All the 37 columns in the dataset were categorical. It was observed that one hot encoding was not performed in all the data. PyCaret employed normal label encoding (‘0’ and ‘1’) for all the columns that had only two entries (either ‘t’ or ‘f’) and one hot encoding was used on column ‘n’ where there were 3 categories (‘n’, ’w’ and ‘b’). This resulted in a total of 39 columns in the transformed dataset.
 
 ## Video Presentation:
-
-EE8603 - Machine Learning Project Presentation (loom.com)
+[EE8603 - Machine Learning Project Presentation](https://www.loom.com/share/b9ed92175b2245a1a83fac95d1485790?sid=298253a6-0b1d-4e53-b5d8-8161c4dc4625).
 
 ## GitHub Repository: 
 
